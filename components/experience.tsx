@@ -8,10 +8,23 @@ import { Building2, Calendar, MapPin } from "lucide-react"
 
 const experiences = [
   {
+    title: "Full Stack Developer",
+    company: "Afghan Turk Maarif Schools",
+    location: "Kabul, Afghanistan",
+    period: "Feb 2026 – Present",
+    type: "Full-time",
+    description:
+      "I am working as a Full Stack Developer at Afghan-Turk Maarif Schools, where I design and develop scalable web-based management systems for educational institutions.",
+    achievements: [
+      "I handle end-to-end development processes, including system architecture design, backend development, database management, and modern frontend implementation.I focus on building secure, efficient, and user-friendly applications that streamline academic and administrative workflows while ensuring performance, scalability, and maintainability.",
+    ],
+    technologies: ["Laravel+Inertia.js(React.js)", "CI/CD pipelines", "GitHub Actions", "MySQL","Tailwind CSS"],
+  },
+  {
     title: "Full Stack Web Developer",
     company: "Webify Company",
     location: "Kabul, Afghanistan",
-    period: "Apr 2025 – Present",
+    period: "Apr 2025 – Dec 2025",
     type: "Full-time",
     description:
       "Leading the development of scalable, production-ready web applications leveraging React, Next.js, Node.js, and Laravel. Collaborating with cross-functional teams to deliver high-quality software solutions.",
